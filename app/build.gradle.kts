@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-         applicationId = "com.tsng.pzyhrx.hma"
+         applicationId = "com.qihoo.appstore"
      }
      
     buildFeatures {
